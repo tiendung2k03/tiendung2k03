@@ -16,7 +16,7 @@
 - 💻 **Ngôn ngữ chính:** Python, HTML, CSS.
 - ✨ **Đang tìm hiểu:** Các mô hình AI mới nhất và tối ưu hóa hiệu suất ứng dụng.
 - 🤝 **Hợp tác:** Mở cửa cho các dự án mã nguồn mở liên quan đến Python và công cụ phát triển.
-- 📧 **Liên hệ:** [Email của bạn]
+- 📧 **Liên hệ:** monstertattoovn696@gmail.com
 
 <br>
 
@@ -77,14 +77,14 @@ Các công nghệ tôi sử dụng, được trình bày theo phong cách hiện
 ## 🔗 Kết nối với tôi | Connect
 
 <div align="center">
-  <a href="[Liên kết LinkedIn của bạn]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.facebook.com/tiendung.10.2k03">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="[Liên kết Twitter của bạn]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://t.me/tiendung2k03">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="[Liên kết Portfolio/Website của bạn]">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="mailto:monstertattoovn696@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
