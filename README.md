@@ -17,6 +17,7 @@
 - ✨ **Đang tìm hiểu:** Các mô hình AI mới nhất và tối ưu hóa hiệu suất ứng dụng.
 - 🤝 **Hợp tác:** Mở cửa cho các dự án mã nguồn mở liên quan đến Python và công cụ phát triển.
 - 📧 **Liên hệ:** monstertattoovn696@gmail.com
+- 🌐 **Mạng xã hội:** Kết nối với tôi qua các nền tảng bên dưới!
 
 <br>
 
@@ -77,13 +78,13 @@ Các công nghệ tôi sử dụng, được trình bày theo phong cách hiện
 ## 🔗 Kết nối với tôi | Connect
 
 <div align="center">
-  <a href="https://www.facebook.com/tiendung.10.2k03">
+  <a href="https://www.facebook.com/tiendung.10.2k03" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://t.me/tiendung2k03">
+  <a href="https://t.me/tiendung2k03" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:monstertattoovn696@gmail.com">
+  <a href="mailto:monstertattoovn696@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
